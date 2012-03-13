@@ -1,0 +1,6 @@
+# Portal Chief
+use_current_world: True  # TP to players current world spawn?
+world: World             # If use_current_world is false, TP to this world.
+
+use_message: True
+message: A rift in space has led you back to spawn.
